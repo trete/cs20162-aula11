@@ -5,8 +5,7 @@ package com.trete.cs20162.aula11;
 
 import com.github.kyriosdata.parser.Lexer;
 import com.github.kyriosdata.parser.Parser;
-import com.github.kyriosdata.parser.Token;
-import java.util.List;
+
 /**
   *Classe utilizada para realizar as operações matemáticas com os parâmetros
   *inseridos.
